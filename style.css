@@ -1159,6 +1159,9 @@ footer{
     width: 100%;
     gap: 1.0rem;
   }
+.about-text p{
+	font-size: 1.5rem;
+  }
 
   /*product*/
 
@@ -1170,6 +1173,9 @@ footer{
 
   .product-text{
     width: 100%;
+  }
+  .product-text p{
+	  font-size: 1.5rem;
   }
 
   .product-button{
