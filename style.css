@@ -1159,6 +1159,9 @@ footer{
     width: 100%;
     gap: 1.0rem;
   }
+.about-text h3{
+  font-size: 2.0rem;
+}
 .about-text p{
 	font-size: 1.5rem;
   }
@@ -1173,10 +1176,9 @@ footer{
 
   .product-text{
     width: 100%;
+    font-size: 1.5rem;
   }
-  .product-text p{
-	  font-size: 1.5rem;
-  }
+
 
   .product-button{
     width: 100%;
